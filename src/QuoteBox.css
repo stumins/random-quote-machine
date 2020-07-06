@@ -20,6 +20,7 @@ body {
   padding: 1.75em;
   width: 40%;
   max-width: 500px;
+  max-height: 500px;
   background-color: black;
   border-radius: 10px;
   color: greenyellow;
