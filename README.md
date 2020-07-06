@@ -1,5 +1,5 @@
 ### Random Quote Machine
 
-A React component that returns displays quotes 
+A React component that displays random quotes.
 
-Built in 2020 by Stu Minshull
+© 2020 Stu Minshull
