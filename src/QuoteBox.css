@@ -67,7 +67,7 @@ body {
 
 #tweet-quote {
   text-decoration: none;
-  color: black;
+  color: greenyellow;
 }
 
 button {
@@ -76,9 +76,17 @@ button {
   font-family: 'Courier Prime', monospace;
   padding: 1em 2em 1em 2em;
   cursor: pointer;
+  color: greenyellow;
+  border-radius: 10px;
+  border-color: greenyellow;
+  background-color: black;
 }
 
 @media (max-width: 770px) {
+  .QuoteBox {
+    width: 70%;
+  }
+
   #text {
     font-size: 1.25em;
   }
