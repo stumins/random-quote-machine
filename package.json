@@ -12,6 +12,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Stuart Minshull (@stumins)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stumins/random-quote-machine"
+  },
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.1.0",
